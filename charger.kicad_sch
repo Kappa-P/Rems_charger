@@ -1395,6 +1395,12 @@
 		(uuid "40827aa8-84a5-41b7-a0ec-1470fa683977")
 	)
 	(junction
+		(at 204.47 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5bee513e-675c-4d06-bee0-8de57f368a75")
+	)
+	(junction
 		(at 129.54 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1413,10 +1419,38 @@
 		(uuid "80cd7e03-07cf-4210-a2cf-d58385318cc4")
 	)
 	(junction
+		(at 204.47 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8bb97093-890f-4296-8752-103b2e6e417b")
+	)
+	(junction
+		(at 204.47 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "93409884-8e39-47a9-a7e1-2206af93fa7a")
+	)
+	(junction
+		(at 204.47 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ed1b6969-03ad-488d-a738-6df65f828cde")
+	)
+	(junction
 		(at 90.17 66.04)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fba55763-1a16-4407-92d2-eba8edfe2421")
+	)
+	(wire
+		(pts
+			(xy 204.47 66.04) (xy 204.47 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c77fe72-206d-44f2-aa1d-92655a346fb8")
 	)
 	(wire
 		(pts
@@ -1430,6 +1464,16 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 83.82) (xy 204.47 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "117af3b1-9e49-4cd8-8577-375d9dd4455b")
+	)
+	(wire
+		(pts
 			(xy 129.54 71.12) (xy 129.54 68.58)
 		)
 		(stroke
@@ -1437,6 +1481,16 @@
 			(type default)
 		)
 		(uuid "12372878-f135-43b6-a93f-e249e19add2a")
+	)
+	(wire
+		(pts
+			(xy 204.47 74.93) (xy 204.47 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15c6ef74-03ba-4fcc-95bd-3165c2f20b71")
 	)
 	(wire
 		(pts
@@ -1530,6 +1584,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 83.82) (xy 204.47 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48e21bc9-7017-4401-a4f0-7ba4a8a60998")
+	)
+	(wire
+		(pts
 			(xy 44.45 66.04) (xy 55.88 66.04)
 		)
 		(stroke
@@ -1567,6 +1631,16 @@
 			(type default)
 		)
 		(uuid "51bbfab8-d9df-4874-a8a0-eb2dde3b55c3")
+	)
+	(wire
+		(pts
+			(xy 204.47 62.23) (xy 204.47 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52a51893-a864-41ee-80e5-a0d064021d54")
 	)
 	(wire
 		(pts
@@ -1630,6 +1704,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 92.71) (xy 204.47 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c53c17d-67d0-4af6-93d0-d4a51e2f6ab8")
+	)
+	(wire
+		(pts
 			(xy 161.29 101.6) (xy 177.8 101.6)
 		)
 		(stroke
@@ -1680,6 +1764,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 74.93) (xy 204.47 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2f73838-0903-42f8-b5a7-7e08782dda7c")
+	)
+	(wire
+		(pts
 			(xy 129.54 66.04) (xy 134.62 66.04)
 		)
 		(stroke
@@ -1707,6 +1801,16 @@
 			(type default)
 		)
 		(uuid "cc24da4b-cb24-42e1-9e47-6af7885b0e05")
+	)
+	(wire
+		(pts
+			(xy 204.47 92.71) (xy 204.47 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccd7e6c7-5992-4c3c-bc81-ffe84e0024be")
 	)
 	(wire
 		(pts
@@ -1790,6 +1894,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 101.6) (xy 204.47 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2959505-03a6-486f-94ee-160e2016c3ec")
+	)
+	(wire
+		(pts
 			(xy 129.54 76.2) (xy 134.62 76.2)
 		)
 		(stroke
@@ -1797,6 +1911,16 @@
 			(type default)
 		)
 		(uuid "f2fbe79f-2753-4e6c-8115-e6002d2854d8")
+	)
+	(wire
+		(pts
+			(xy 204.47 66.04) (xy 196.85 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6137e9f-c085-4b37-a95b-47ed67299e7a")
 	)
 	(wire
 		(pts
@@ -1837,6 +1961,16 @@
 			(justify left bottom)
 		)
 		(uuid "10a7fa88-d231-463c-81e9-8e8f16baa8a2")
+	)
+	(label "Vin"
+		(at 204.47 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b61f16f9-591a-4d02-bc0e-56b3b2216013")
 	)
 	(symbol
 		(lib_name "D_Zener_1")
@@ -1916,7 +2050,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "47911bfe-4471-4c71-8cef-259e17e61105")
 		(property "Reference" "F4"
@@ -2195,7 +2329,7 @@
 				)
 			)
 		)
-		(property "Value" "Barrel_Jack_Switch"
+		(property "Value" "XUNPU DC-005-A250"
 			(at 36.83 62.23 0)
 			(effects
 				(font
@@ -2203,7 +2337,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "easyeda2kicad:DC-IN-TH_DC-005-A250"
 			(at 38.1 69.596 0)
 			(effects
 				(font

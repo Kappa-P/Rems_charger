@@ -1433,10 +1433,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "14fa5ca2-a702-4788-afb6-09586a295574")
 		(property "Reference" "C34"
-			(at 142.24 111.76 90)
+			(at 142.24 114.046 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1444,7 +1443,7 @@
 			)
 		)
 		(property "Value" "4n7"
-			(at 142.24 114.3 90)
+			(at 142.24 116.078 90)
 			(effects
 				(font
 					(size 1.27 1.27)

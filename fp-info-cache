@@ -1,4 +1,4 @@
-25219479091207184
+25235281017005307
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101276,6 +101276,13 @@ Varistor VF
 2
 2
 easyeda2kicad
+DC-IN-TH_DC-005-A250
+
+
+0
+3
+3
+easyeda2kicad
 ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP
 
 
@@ -101290,12 +101297,40 @@ F0603
 2
 2
 easyeda2kicad
+F1206
+
+
+0
+2
+2
+easyeda2kicad
+IND-SMD_L7.2-W6.6_GPSR07X0
+
+
+0
+2
+2
+easyeda2kicad
 LQFN-56_L7.0-W7.0-P0.4-EP
 
 
 0
 57
 57
+easyeda2kicad
+SMB_L4.6-W3.6-LS5.4-RD
+
+
+0
+2
+2
+easyeda2kicad
+SMC_L6.9-W5.9-LS7.9-RD
+
+
+0
+2
+2
 easyeda2kicad
 SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR
 
@@ -101304,12 +101339,40 @@ SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR
 3
 3
 easyeda2kicad
+SW-SMD_DSIC08LSGET
+
+
+0
+16
+16
+easyeda2kicad
+TYPE-C-SMD_DX07P024MJ1R1500
+
+
+0
+32
+32
+easyeda2kicad
+TYPE-C-SMD_YTC-TC16S-128
+
+
+0
+18
+18
+easyeda2kicad
 TYPE-C-TH_16PLC-H10.0
 
 
 0
 20
 20
+easyeda2kicad
+USB-C-SMD_14P-P0.80_MC-337
+
+
+0
+18
+18
 easyeda2kicad
 USC_L1.7-W1.3-LS2.5-R-RD
 

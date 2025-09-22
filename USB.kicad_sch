@@ -1414,6 +1414,16 @@
 		)
 		(uuid "f66a2b7f-cd26-4e82-ab21-797b57e58626")
 	)
+	(label "Vusb_no_f"
+		(at 148.59 57.15 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "19d678c3-98a3-4477-8ea6-25e1f721f518")
+	)
 	(hierarchical_label "VBUS"
 		(shape passive)
 		(at 195.58 57.15 0)
